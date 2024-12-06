@@ -1,0 +1,59 @@
+.i{
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.q{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+width: 350px;
+}
+.nav{
+  display: flex;
+  justify-content: space-evenly;
+
+ justify-content: center;
+ align-items: center;
+ 
+}
+.l{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#foto {
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+}
+
+#prapavija {
+  background-color: thistle;
+  height: 200px;
+  width: 200px;
+  border-radius: 30px;
+}
+.c {
+  display: flex;
+}
+
+.prapavija {
+  display: flex;
+}
+
+.c {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.abc {
+  display: flex;
+      
+}
+
+.vija {
+  width: 1500px;
+}

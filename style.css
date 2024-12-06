@@ -1,0 +1,67 @@
+.malii 
+{
+    display: flex;
+    justify-content: space-between;
+    height: 60;
+    width: 1400;
+
+
+}
+.malimali {
+  
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+.klasa {
+    height: 300px;
+    width: 300px;
+    background-color: purple;
+}
+.klasaa {
+    height:40px;
+    width: 80px;
+   background-color: purple;
+   border: 1px solid black;
+}
+.our {
+    height:40px;
+    width: 80px;
+   background-color: black;
+   color: white;
+
+}
+
+.malimalimali {
+    display: flex;
+    justify-content: center;
+}
+
+.malim {
+    height: 300;
+    width: 500;
+}
+.maliig {
+   height: 100px;
+   width: 200px;
+}
+
+.ylliylli {
+    height: 100px;
+    width: 400px;
+}
+
+.ylli {
+    display: flex;
+    justify-content: center;
+
+}
+#maliig {
+    color: blueviolet;
+}
+.katrori{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
+

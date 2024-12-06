@@ -1,0 +1,20 @@
+.vintage {
+    width: 250px;
+}
+
+.e {
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+
+}
+
+.ngjyrat{
+    display: flex;
+    justify-content: space-evenly;
+    width: 164px;
+}
+
+.karrikafoto {
+    justify-content: left               ;
+}
